@@ -12,3 +12,9 @@ h1 {
   font-size: 100px;
   color: blue;
 }
+
+.choices:hover {
+  
+  color: green;
+  cursor: pointer;
+}
