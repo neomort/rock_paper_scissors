@@ -10,11 +10,18 @@
 
 h1 {
   font-size: 100px;
-  color: blue;
+  color: rgb(101, 184, 141);
 }
 
 .choices:hover {
   
   color: green;
   cursor: pointer;
+}
+
+h3 {
+  
+  display:flex;
+color: grey;
+
 }
